@@ -8,9 +8,8 @@ This project is a clone of the Nike website, built using React, Tailwind CSS, an
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Demo
 
