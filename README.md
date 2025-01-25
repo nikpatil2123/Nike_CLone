@@ -13,7 +13,7 @@ This project is a clone of the Nike website, built using React, Tailwind CSS, an
 
 ## Demo
 
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here](https://nike-clone-virid.vercel.app/).
 
 ## Features
 
