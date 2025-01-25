@@ -40,7 +40,7 @@ https://github.com/nikpatil2123/Nike_CLone.git
 npm install
 ```
 
-### Usage
+## Usage
 To start the development server, run:
 
 ```
@@ -60,6 +60,6 @@ To preview the production build, run:
 npm run preview
 ```
 
-### Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
